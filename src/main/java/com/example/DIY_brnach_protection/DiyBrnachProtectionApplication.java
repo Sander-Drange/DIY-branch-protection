@@ -9,6 +9,7 @@ public class DiyBrnachProtectionApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DiyBrnachProtectionApplication.class, args);
 		System.out.println("Herro");
+		System.out.println("Herro2");
 	}
 
 }
